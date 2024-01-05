@@ -17,7 +17,9 @@ class CounterFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            "key" => 'invoices',
+            'prefix' => 'INV',
+            'value' => 20000
         ];
     }
 }
