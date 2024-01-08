@@ -1,3 +1,3 @@
 <template>
-    <h1><Input:c></Input:c></h1>
+    <h1>Index page u see here </h1>
 </template>
